@@ -36,7 +36,7 @@
    - Нажмите OK.
 2. **Настройка Pipeline**.
    - В разделе Pipeline, выберите Pipeline script from SCM.
-   - В поле Repository URL введите путь к этому репозиторию (`https://github.com/italian/simple_automatic_machine_learning_pipeline`).
+   - В поле Repository URL введите путь к этому репозиторию (`[https://https://github.com/DeMaxPiope/Learning_MLOps](https://github.com/DeMaxPiope/Learning_MLOps)`).
    - Убедитесь, что выбрана правильная ветвь main.
    - В поле Script Path укажите путь к Jenkinsfile - `lab2/Jenkinsfile`.
    - Нажмите Save.
